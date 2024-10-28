@@ -1,0 +1,2 @@
+# linereg
+lineaarinen regressio - harjoitukset
